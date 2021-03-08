@@ -1,0 +1,12 @@
+{
+    "id": "the-skinny-pancake",
+    "name": "The Skinny Pancake",
+    "address": "60 Lake St, Burlington, VT 05401",
+    "phoneNumber": "+18025400188",
+    "hours": "8:00 am - 7:00pm",
+    "latlong": [44.4770114,-73.2195093],
+    "description": [
+      "Local chain featuring breakfast, crepes, panini & live music in a casual, stylish space."
+    ],
+    "reviews": ["No reviews yet..."]
+  }

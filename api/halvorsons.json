@@ -1,0 +1,12 @@
+{
+    "id": "halvorsons",
+    "name": "Halvorson's",
+    "address": "16 Church St, Burlington, VT 05401",
+    "phoneNumber": "+18026580278",
+    "hours": "10:00 am - 9:00pm",
+    "latlong": [44.4798907,-73.2125528],
+    "description": [
+      "Family-run joint furnishing local beers & hearty comfort food in a cozy, wood-lined interior."
+    ],
+    "reviews": ["No reviews yet..."]
+  }
