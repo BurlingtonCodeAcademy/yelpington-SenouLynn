@@ -1,0 +1,12 @@
+{
+    "id": "american-flatbread",
+    "name": "American Flatbread",
+    "address": "115 St Paul St, Burlington, VT 05401",
+    "phoneNumber": "+18028612999",
+    "hours": "4:00pm - 8:00pm",
+    "latlong": [44.47655925,-73.21435285244789],
+    "description": [
+      "Lively choice for craft beer & inventive wood-fired pizzas loaded with organic, seasonal toppings."
+    ],
+    "reviews": ["No reviews yet..."]
+  }

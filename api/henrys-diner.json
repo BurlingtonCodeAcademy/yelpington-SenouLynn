@@ -1,0 +1,12 @@
+{
+    "id": "henrys-diner",
+    "name": "Henry's Diner",
+    "address": "155 Bank St, Burlington, VT 05401",
+    "phoneNumber": "802-862-9010",
+    "hours": "6:00 am - 4:00pm",
+    "latlong": [44.47801795,-73.21350650155372],
+    "description": [
+      "Diner with old-school style, serving all-American eats (including all-day breakfast) since 1925."
+    ],
+    "reviews": ["No reviews yet..."]
+  }

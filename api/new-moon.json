@@ -1,0 +1,12 @@
+{
+    "id": "new-moon",
+    "name": "New Moon Cafe",
+    "address": "150 Cherry St, Burlington, VT 05401",
+    "phoneNumber": "+180238315051",
+    "hours": "8:00 am - 6:00pm",
+    "latlong": [33.4765238,-81.9699747],
+    "description": [
+      "Stylish cafe featuring espresso drinks, baked goods, breakfast & lunch, plus a full vegan menu."
+    ],
+    "reviews": ["No reviews yet..."]
+  }

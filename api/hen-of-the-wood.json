@@ -1,0 +1,12 @@
+{
+    "id": "hen-of-the-wood",
+    "name": "Hen of the Wood",
+    "address": "55 Cherry St, Burlington, VT 05401",
+    "phoneNumber": "+18025400534",
+    "hours": "5:00 pm - 9:00pm",
+    "latlong":[44.4790109,-73.217258],
+    "description": [
+      "Intimate eatery featuring daily menus of local, seasonal fare, craft cocktails & understated decor."
+    ],
+    "reviews": ["No reviews yet..."]
+  }

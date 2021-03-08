@@ -1,0 +1,12 @@
+{
+    "id": "nectars",
+    "name": "Nectar's",
+    "address": " asdf.",
+    "phoneNumber": "555-1221",
+    "hours": "7:00 pm - 2:00 am",
+    "latlong": [44.47613,-73.2117172],
+    "description": [
+      "Landmark music hall featuring local music acts, craft beer & famed gravy fries, plus other pub grub."
+    ],
+    "reviews": ["No reviews yet..."]
+  }

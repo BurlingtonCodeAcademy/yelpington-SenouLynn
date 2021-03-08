@@ -1,0 +1,12 @@
+{
+    "id": "ben-and-jerrys",
+    "name": "Ben & Jerry's",
+    "address": "36 Church St, Burlington, VT 05401",
+    "phoneNumber": "+18028629620",
+    "hours": "2:00 pm - 8:00 pm",
+    "latlong": [44.479443,-73.2125134], 
+    "description": [
+      "Iconic Vermont-based ice cream parlor chain, known for its creative, cleverly named flavors."
+    ],
+    "reviews": ["No reviews yet..."]
+  }
