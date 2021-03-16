@@ -5,6 +5,11 @@ var fs = require('fs')
 //Process.env lets DNS handle porting, OR ( || ) port 5000 if we want to use app locally
 const port = process.env.PORT || 5000;
 
+
+//USE THIS WHEN DEPLOYING
+const staticDir = path.resolve("./client/build");
+app.use(express.static(staticDir));
+
 //Initialize starting variables
 const app = express();
 
