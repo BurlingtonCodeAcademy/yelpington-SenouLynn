@@ -4,9 +4,7 @@ import { useState, useEffect } from "react";
 import MapManip from "./MapManip";
 
 function Map(props) {
-  // console.log("REF: props.restocenter in Map.js: ", props.restoCenter);
-
-  //Bring in location prop from Info.js
+   //Bring in location prop from Info.js
   const [currentLocation, setCurrentLocation] = useState();
 
   //Inline CSS

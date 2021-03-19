@@ -13,7 +13,7 @@ function Nav(props) {
             <Link className="nav-link" to="/restaurant/the-skinny-pancake">The Skinny Pancake</Link>
             <Link className="nav-link" to="/restaurant/nectars">Nectar's</Link>
             <Link className="nav-link" to="/restaurant/ben-and-jerrys">Ben n' Jerry's</Link>
-
+            <Link className="nav-link highlight" to="/review">Review A Restaurant</Link>
         </div>
     )
 }

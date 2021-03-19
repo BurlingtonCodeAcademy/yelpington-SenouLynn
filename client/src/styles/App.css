@@ -117,3 +117,32 @@ h1 {
 }
 
 
+/* Review Page */
+#review-page {
+  padding: 10px;
+  margin: 10px;
+
+}
+
+#review-page > form > *{
+  color: rgb(53, 49, 49);
+  margin-bottom: 10px;
+}
+
+.text-area {
+  font: inherit;
+  height: 100px;
+  width: 100%;
+  padding: 10px;
+}
+
+.submit {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #e5ceca;;
+}
+
+.submit:hover {
+  background-color: #ef5932;
+}

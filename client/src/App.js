@@ -1,9 +1,10 @@
-import logo from "./logo.svg";
+
 import { BrowserRouter, Route, Switch, Link } from "react-router-dom";
-import "./App.css";
+import "./styles/App.css";
 import Nav from "./components/Nav";
 import Home from "./components/Home";
 import Info from "./components/Info";
+import ReviewForm from "./components/ReviewForm";
 
 
 //Logo with nav on the side, map/resto change on click
@@ -18,6 +19,7 @@ function App() {
             <Switch id="switch">
               <Route exact path="/" component={Home} />
               <Route path="/restaurant/:place" component={Info} />
+              <Route path="/review" component={ReviewForm} />
             </Switch>
           </div>
         </BrowserRouter>
